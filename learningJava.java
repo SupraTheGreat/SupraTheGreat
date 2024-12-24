@@ -10,7 +10,7 @@ import java.time.DayOfWeek; // The module for the days of the week
 
 // Main class
 // Day of Today
-public class GFG {
+public class learningJava {
 
     // List of colored text variables
     public static final String RESET = "\u001B[0m";
